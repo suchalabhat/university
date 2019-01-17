@@ -9,4 +9,4 @@ menuBtn.addEventListener('click', function(){
   } else {
     topHeader.classList.add('active');
   }
-},false);
+}, false);
